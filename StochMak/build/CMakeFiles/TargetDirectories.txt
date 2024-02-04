@@ -1,0 +1,3 @@
+/home/ubuntu/StochMak/build/CMakeFiles/avellaneda.dir
+/home/ubuntu/StochMak/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/StochMak/build/CMakeFiles/rebuild_cache.dir
